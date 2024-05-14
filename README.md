@@ -76,8 +76,9 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
+![Screenshot 2024-05-14 085743](https://github.com/Thajesh2/cover/assets/139841959/80bf7720-0ab3-4067-9b1b-fadbc3e794d5)
 
-![Screenshot 2024-05-14 085316](https://github.com/Thajesh2/cover/assets/139841959/70a9e20a-9564-4dcc-bd77-c061b4a7a2f7)
+
 
 
 ## RESULT:
