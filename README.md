@@ -31,9 +31,53 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
-
+```
+<html>
+    <head>
+        <title>
+            textbook
+        </title>
+    <style>
+        h4{
+         color: white;
+         margin-top: 100;
+        }
+        h1{
+            color: black;
+        }
+        h3{
+            color:white;
+        }
+        hr{
+           
+            width:160;
+            border-color: black;
+        }
+        h6{
+            color:white;
+        }
+    </style>
+    </head>
+    <body style="background-color:orangered;">
+        <center><h4>WINNER OF THE PULIZER PRIZE</h4></center>
+        <br>
+        <br>
+        <center><h1><big>MY</big></h1></center>
+        <center><h1><big>BOOK</big></h1></center>
+        <center><h1><big>COVER</big></h1></center>
+        <center><h3>Secrets &nbsp;in &nbsp; a </h3></center>
+        <center><h3>Silicon &nbsp;Valley</h3></center>
+        <center><h3>Startup </h3></center><hr>
+        <center><h6>PUBLISHED BY</h6></center>
+        <center><h2>thajesh k M&nbsp;212223230229</h2></center>
+       
+    </body>
+</html>
+```
 
 ## OUTPUT:
+
+![Screenshot 2024-05-14 085316](https://github.com/Thajesh2/cover/assets/139841959/70a9e20a-9564-4dcc-bd77-c061b4a7a2f7)
 
 
 ## RESULT:
