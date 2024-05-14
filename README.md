@@ -58,7 +58,7 @@ Publish the website in the LocalHost.
         }
     </style>
     </head>
-    <body style="background-color:orangered;">
+    <body style="background-color:rgb(0, 126, 111);">
         <center><h4>WINNER OF THE PULIZER PRIZE</h4></center>
         <br>
         <br>
@@ -69,14 +69,15 @@ Publish the website in the LocalHost.
         <center><h3>Silicon &nbsp;Valley</h3></center>
         <center><h3>Startup </h3></center><hr>
         <center><h6>PUBLISHED BY</h6></center>
-        <center><h2>ABDUL KALAM K M&nbsp;21222323003</h2></center>
+        <center><h2>thajesh k&nbsp;212223230229</h2></center>
        
     </body>
 </html>
+     
 ```
 
 ## OUTPUT:
-![image](https://github.com/dfghytr/cover/assets/138970628/be52833a-083a-494d-8ba8-9784d290e3cb)
+![Screenshot 2024-05-14 085743](https://github.com/dfghytr/cover/assets/139841959/242b2f15-eca2-42a5-80e3-0c04d57a41cc)
 
 
 ## RESULT:
